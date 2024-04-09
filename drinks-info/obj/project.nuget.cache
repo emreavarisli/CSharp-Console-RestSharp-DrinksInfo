@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "jULA8dxl+3xDy0sj7Fi19mcFRY9klRseo84QMZ+Jg4lXR1F5aD7bbfbJyBinSDtUIPygRhSpHBXsiuuaJ2jlcg==",
+  "dgSpecHash": "m7XAATmJdCq5dRi9kImTIWzQrSz5aXSQ/atpe2YRzwAHkK0AOiHSoA5pYJ/pcnn/n7oUQYXAE63mB6136UAlUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\emrea\\Desktop\\development\\DrinksInfo\\drinks-info\\drinks-info.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\emrea\\.nuget\\packages\\consoletableext\\3.1.9\\consoletableext.3.1.9.nupkg.sha512",
+    "C:\\Users\\emrea\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\emrea\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\emrea\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\emrea\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 11.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

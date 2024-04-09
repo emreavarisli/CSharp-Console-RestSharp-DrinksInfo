@@ -12,3 +12,9 @@ C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\refin
 C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.pdb
 C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.genruntimeconfig.cache
 C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\ref\drinks-info.dll
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.sourcelink.json
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\bin\Debug\net8.0\ConsoleTableExt.dll
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\bin\Debug\net8.0\RestSharp.dll
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.csproj.AssemblyReference.cache
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.csproj.CopyComplete
