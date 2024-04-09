@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\bin\Debug\net8.0\drinks-info.exe
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\bin\Debug\net8.0\drinks-info.deps.json
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\bin\Debug\net8.0\drinks-info.runtimeconfig.json
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\bin\Debug\net8.0\drinks-info.dll
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\bin\Debug\net8.0\drinks-info.pdb
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.AssemblyInfo.cs
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.dll
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\refint\drinks-info.dll
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.pdb
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\drinks-info.genruntimeconfig.cache
+C:\Users\emrea\Desktop\development\DrinksInfo\drinks-info\obj\Debug\net8.0\ref\drinks-info.dll
